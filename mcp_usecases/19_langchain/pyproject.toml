@@ -1,0 +1,14 @@
+[project]
+name = "19-langchain"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "langchain==1.0.5",
+    "langchain-google-genai==3.0.1",
+    "langchain-mcp-adapters==0.1.12",
+    "langchain-openai>=1.2.0",
+    "langgraph==1.0.2",
+    "mcp==1.21.0",
+]

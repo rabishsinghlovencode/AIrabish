@@ -1,0 +1,9 @@
+
+
+langchain==1.2.0
+langgraph==1.0.6
+langgraph-prebuilt==1.0.6
+langchain-mcp-adapters
+langchain-google-genai
+python-dotenv
+mcp

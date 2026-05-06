@@ -1,0 +1,14 @@
+[project]
+name = "19-mcp-langchain"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "langchain>=1.2.15",
+    "langchain-mcp-adapters>=0.2.2",
+    "langchain-openai>=1.2.0",
+    "langgraph>=1.1.9",
+    "langgraph-prebuilt>=1.0.10",
+    "streamlit>=1.56.0",
+]
